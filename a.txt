@@ -3,3 +3,5 @@ header
 This is file a.txt created by Sharad Rajore
 
 yet another file
+
+footer
